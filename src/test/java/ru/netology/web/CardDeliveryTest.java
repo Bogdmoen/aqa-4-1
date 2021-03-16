@@ -17,24 +17,6 @@ public class CardDeliveryTest {
     }
 
     @Test
-    public void shouldGetCity() {
-        System.out.println(generator.getCity("ru"));
-        System.out.println(generator.getCity("us"));
-    }
-
-    @Test
-    public void shouldGetName() {
-        System.out.println(generator.getName("ru"));
-        System.out.println(generator.getName("us"));
-        System.out.println(generator.getDate(0));
-    }
-    @Test
-    public void shouldGetPhone() {
-        System.out.println(generator.getPhone());
-    }
-
-
-    @Test
     public void shouldGetCardForm (){
         open("http://localhost:9999");
         $("h2.heading").shouldHave(Condition.text("Карта с доставкой"));
