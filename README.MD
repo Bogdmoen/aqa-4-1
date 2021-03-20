@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/7nt70ramv8wbyju5?svg=true)](https://ci.appveyor.com/project/Bogdmoen/aqa-4-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/gu3dootkx449dygt?svg=true)](https://ci.appveyor.com/project/Bogdan75383/javaqa-collections-1)
