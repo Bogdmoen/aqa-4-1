@@ -10,7 +10,6 @@ import static com.codeborne.selenide.Selenide.*;
 
 public class CardDeliveryTest {
 
-
     @BeforeEach
     public void clean() {
         open("http://localhost:9999");

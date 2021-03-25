@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/gu3dootkx449dygt?svg=true)](https://ci.appveyor.com/project/Bogdan75383/javaqa-collections-1)
+[![Java CI with Gradle](https://github.com/Bogdmoen/aqa-4-1/actions/workflows/gradle.yml/badge.svg)](https://github.com/Bogdmoen/aqa-4-1/actions/workflows/gradle.yml)
